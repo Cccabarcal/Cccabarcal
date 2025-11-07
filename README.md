@@ -3,17 +3,26 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  
- 
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  </a>
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://img.shields.io/badge/c%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+  </a>
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-      
-  </p>
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  </a>
+</p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -27,23 +36,16 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
-  
   <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> 
+  </a>
 </p>
-
-
-
-
 
 <h3 align="center">Version Control </h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  </a>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
@@ -62,19 +64,15 @@
   </a>
 </p>
 
-----
-
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
-  
   <div>
     <a  href="https://www.linkedin.com/in/cristian-cabarcas-lopez-7404812a5/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    
+  </div>
 </div>
-
 
 ----
 
@@ -88,6 +86,5 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>
