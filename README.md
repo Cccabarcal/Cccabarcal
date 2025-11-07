@@ -91,7 +91,7 @@
 <div style="margin-top:10px" align="center">
   
   <div>
-    <a  href="(https://www.linkedin.com/in/cristian-cabarcas-lopez-7404812a5/)" target="_blank">
+    <a  href="https://www.linkedin.com/in/cristian-cabarcas-lopez-7404812a5/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     
