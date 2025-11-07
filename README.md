@@ -1,6 +1,21 @@
 <h1 align="center">Hi , I'm Cristian<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
+<!-- Animated welcome message (added) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&vCenter=true&width=600&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+%F0%9F%91%8B;+Welcome!+%F0%9F%91%A8%F0%9F%92%99" alt="Welcome"/>
+</div>
+
+<!-- About Me (added) -->
+### 👨‍💻 About Me
+
+- I'm a **Developer** | **Engineer** | 
+- Building scalable solutions with **Django REST, Python, Sqlite**
+- Learning **AI**
+- Passionate about **Backend Development**
+
+
+
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
