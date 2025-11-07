@@ -16,8 +16,8 @@
 
 
 
-<h3 align="center">Languages</h3>
-<p align="center">
+<h3 align="left">Languages</h3>
+<p align="left">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
   </a>
@@ -29,8 +29,8 @@
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
+<h3 align="left">Frontend</h3>
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
   </a>
@@ -39,8 +39,8 @@
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
+<h3 align="left">Backend</h3>
+<p align="left">
   <a href="https://www.djangoproject.com" target="_blank">
     <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" />
   </a>
@@ -49,22 +49,22 @@
   </a>
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
+<h3 align="left">Database</h3>
+<p align="left">
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> 
   </a>
 </p>
 
-<h3 align="center">Version Control </h3>
-<p align="center">
+<h3 align="left">Version Control </h3>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center">
+<h3 align="left">Preferred IDEs  & Tools :</h3>
+<p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
@@ -79,9 +79,9 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="left">Connect with me</h3>
 
-<div style="margin-top:10px" align="center">
+<div style="margin-top:10px" align="left">
   <div>
     <a href="https://www.linkedin.com/in/cristian-cabarcas-lopez-7404812a5/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -95,7 +95,7 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Cccabarcal&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Cccabarcal)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Cccabarcal&theme=material-palenight)](https://github.com/Ccabarcal)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Cccabarcal&theme=material-palenight)](https://github.com/Cccabarcal)
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cccabarcal&layout=compact&theme=tokyonight" />
