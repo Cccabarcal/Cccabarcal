@@ -11,7 +11,7 @@
 
 - I'm a **Developer** | **Engineer**  
 - Building solutions in **Django REST, Python, Sqlite**
-- Learning **AI**
+- Learning **AI**,**Docker**
 - Passionate about **Backend Development, AI Data Engineering**
 
 
