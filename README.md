@@ -21,9 +21,7 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
-  </a>
+  
   <a href="https://isocpp.org" target="_blank">
     <img src="https://img.shields.io/badge/c%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
   </a>
