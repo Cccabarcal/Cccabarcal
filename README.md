@@ -42,9 +42,7 @@
   <a href="https://www.djangoproject.com" target="_blank">
     <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" />
   </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-  </a>
+  
 </p>
 
 <h3 align="left">Database</h3>
